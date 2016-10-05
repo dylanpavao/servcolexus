@@ -1,0 +1,28 @@
+body {
+  background-color: #404041;
+}
+
+p {
+  font-size: 12px;
+}
+
+.footer-background {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: #e6e7e8;
+}
+
+.white-background {
+  background-color: white;
+}
+
+.ui.borderless.menu.top {
+  background-color: #e6e7e8;
+  border: none;
+  box-shadow: none;
+}
+
+.ui.borderless.menu.midde {
+  background-color: #231f20;
+  padding-top: 14px;
+}
